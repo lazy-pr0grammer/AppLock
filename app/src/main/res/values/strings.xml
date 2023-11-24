@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">App Lock</string>
+    <string name="lock_type">Not protected!</string>
+    <string name="app_icon">AppIcon</string>
+    <string name="action_icon">ActionIcon</string>
+    <string name="status_icon">StatusIcon</string>
+    <string name="app_lock">App Lock</string>
+    <string name="apps">Apps</string>
+    <string name="themes">Themes</string>
+    <string name="settings">Settings</string>
+    <string name="accessibility_service_name">App Lock</string>
+    <string name="accessibility_service_description">App Lock uses this permission to provide better service. It does not use this service to collect personal information</string>
+    <string name="pin_screen_instruction">Input PIN or use fingerprint to unlock %s</string>
+    <string name="message_pattern_dot_added">Dot added to pattern</string>
+    <string name="message_pattern_started">Pattern drawing started</string>
+    <string name="message_pattern_detected">Pattern drawing completed</string>
+    <string name="message_pattern_cleared">Pattern cleared</string>
+    <string-array name="lock_type">
+        <item> Pattern Lock</item>
+        <item> PIN Lock</item>
+    </string-array>
+</resources>
